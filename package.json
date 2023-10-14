@@ -1,0 +1,30 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuongdn02/Code.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "chuongdn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuongdn02/Code/issues"
+  },
+  "homepage": "https://github.com/chuongdn02/Code#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
